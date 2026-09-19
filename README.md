@@ -27,7 +27,7 @@
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
-      src="[https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
       alt="bash"
       width="40"
       height="40"
@@ -137,7 +137,7 @@
 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
     <img
-      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg)"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
       alt="rust"
       width="40"
       height="40"
