@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhamad Rizkywan</h1>
 <h3 align="center">beginner student development.</h3>
 
-- 🌱 I’m currently learning **C, C++, python, php, rust, Html, css, dart**
+- 🌱 I’m currently learning **C, C++, Python, PHP, Rust, Html, CSS, Dart**
 
 - 📫 How to reach me **muhamadrizkywan@gmail.com**
 
