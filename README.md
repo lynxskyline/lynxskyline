@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **muhamadrizkywan@gmail.com**
 
-- ⚡ Fun fact **I am a complete beginner in development and only know a few things so far, but I will keep learning until I master it.**
+- ⚡ Fun fact **I am a complete beginner in development and only know the basic and few things so far, im learing about networking too, but I will keep learning until I master it.**
 
 <h3 align="left">Connect with me:</h3>
 
